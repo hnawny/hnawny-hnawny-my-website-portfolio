@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hnawny-portfolio/static/css/main.fbe50aea.css",
-    "main.js": "/hnawny-portfolio/static/js/main.45418d4b.js",
-    "static/js/488.c7021cdc.chunk.js": "/hnawny-portfolio/static/js/488.c7021cdc.chunk.js",
-    "index.html": "/hnawny-portfolio/index.html",
-    "main.fbe50aea.css.map": "/hnawny-portfolio/static/css/main.fbe50aea.css.map",
-    "main.45418d4b.js.map": "/hnawny-portfolio/static/js/main.45418d4b.js.map",
-    "488.c7021cdc.chunk.js.map": "/hnawny-portfolio/static/js/488.c7021cdc.chunk.js.map"
+    "main.css": "/hnawny-my-website-portfolio/static/css/main.fbe50aea.css",
+    "main.js": "/hnawny-my-website-portfolio/static/js/main.62665de6.js",
+    "static/js/488.c7021cdc.chunk.js": "/hnawny-my-website-portfolio/static/js/488.c7021cdc.chunk.js",
+    "index.html": "/hnawny-my-website-portfolio/index.html",
+    "main.fbe50aea.css.map": "/hnawny-my-website-portfolio/static/css/main.fbe50aea.css.map",
+    "main.62665de6.js.map": "/hnawny-my-website-portfolio/static/js/main.62665de6.js.map",
+    "488.c7021cdc.chunk.js.map": "/hnawny-my-website-portfolio/static/js/488.c7021cdc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbe50aea.css",
-    "static/js/main.45418d4b.js"
+    "static/js/main.62665de6.js"
   ]
 }
